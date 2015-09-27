@@ -1,7 +1,15 @@
 # hamroproduct.github.io
 hamroproduct.com
 
-# Guide
+Requirements
+============
+
+* **[git](http://wiki.archlinux.org/index.php/Git)**
+* **[python](https://wiki.archlinux.org/index.php/Python)**
+* **[hugo](http://gohugo.io)**    for static site generation
+
+Guide
+============
 
 1. Download and install Hugo
 
